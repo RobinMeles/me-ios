@@ -9,3 +9,4 @@ exclude:
   - /Me-iOS/ViewControllers/Main/Vouchers/.*
   - /Me-iOS/ViewControllers/Voucher/.*
   - /Me-iOS/LoadAnimation/.*
+  - /Me-iOS/ViewControllers/Payment/MPaymentViewController.swift
