@@ -3,3 +3,4 @@ component_depth: 1
 exclude:
   - /Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/.*
   - /Me-iOS/Services/CommonService.swift
+  - /Me-iOS/Custom/ShadowButton.swift
