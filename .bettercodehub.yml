@@ -8,3 +8,4 @@ exclude:
   - /Me-iOS/Custom/CornerImageView.swift
   - /Me-iOS/ViewControllers/Main/Vouchers/.*
   - /Me-iOS/ViewControllers/Voucher/.*
+  - /Me-iOS/LoadAnimation/.*
