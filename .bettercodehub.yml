@@ -1,7 +1,5 @@
 component_depth: 1
 
 exclude:
-  - /Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQKeyboardManager.swift
-  - /Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQToolbar/IQToolbar.swift
-  - /Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQKeyboardReturnKeyHandler.swift
+  - /Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/.*
   - /Me-iOS/Services/CommonService.swift
