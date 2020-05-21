@@ -4,5 +4,3 @@ exclude:
   - /Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQKeyboardManager.swift
   - /Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQToolbar/IQToolbar.swift
   - /Me-iOS/Services/CommonService.swift
-  - /Me-iOS/Custom/ShadowButton.swift
-  - /Me-iOS/Custom/CustomCornerUIView.swift
